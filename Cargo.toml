@@ -1,7 +1,7 @@
 [package]
 name = "complex_rs"
 version = "0.1.0"
-edition = "2025"
+edition = "2024"
 authors = ["koko11101425@gmail.com"]
 description = "A simple and efficient complex number library in Rust."
 license = "MIT"
@@ -11,4 +11,4 @@ keywords = ["complex", "math", "number", "science"]
 categories = ["mathematics", "science"]
 
 [dependencies]
-num-traits = "0.219"
+num-traits = "0.2.19"
