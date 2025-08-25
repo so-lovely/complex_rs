@@ -5,7 +5,7 @@ edition = "2024"
 authors = ["koko11101425@gmail.com"]
 description = "A simple and efficient complex number library in Rust."
 license = "MIT"
-repository = "https://github.com/YOUR_USERNAME/complex_rs"
+repository = "https://github.com/so-lovely/complex_rs.git"
 keywords = ["complex", "math", "number", "science"]
 categories = ["mathematics", "science"]
 [dependencies]
