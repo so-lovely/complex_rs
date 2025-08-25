@@ -6,9 +6,7 @@ authors = ["koko11101425@gmail.com"]
 description = "A simple and efficient complex number library in Rust."
 license = "MIT"
 repository = "https://github.com/YOUR_USERNAME/complex_rs"
-readme = "README.md"
 keywords = ["complex", "math", "number", "science"]
 categories = ["mathematics", "science"]
-
 [dependencies]
 num-traits = "0.2.19"
